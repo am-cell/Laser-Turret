@@ -1,0 +1,5 @@
+C:\Users\ammar\OneDrive\Desktop\LaserTurret\LaserTurret\LaserTurret\obj\Debug\LaserTurret.csproj.AssemblyReference.cache
+C:\Users\ammar\OneDrive\Desktop\LaserTurret\LaserTurret\LaserTurret\obj\Debug\MyLaserTurret.Form1.resources
+C:\Users\ammar\OneDrive\Desktop\LaserTurret\LaserTurret\LaserTurret\obj\Debug\LaserTurret.Properties.Resources.resources
+C:\Users\ammar\OneDrive\Desktop\LaserTurret\LaserTurret\LaserTurret\obj\Debug\LaserTurret.csproj.GenerateResource.cache
+C:\Users\ammar\OneDrive\Desktop\LaserTurret\LaserTurret\LaserTurret\obj\Debug\LaserTurret.csproj.CoreCompileInputs.cache
